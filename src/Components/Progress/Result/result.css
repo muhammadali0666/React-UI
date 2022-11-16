@@ -1,0 +1,24 @@
+.progress-box {
+  display: flex;
+  align-items: center;
+}
+.progress-img {
+  margin-right: 16px;
+}
+.progress-p {
+  font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 100%;
+text-align: center;
+color: #212121;
+margin-bottom: 0;
+}
+.progress-text {
+  font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 200%;
+color: #949494;
+margin-bottom: 0;
+}

@@ -1,0 +1,22 @@
+.hero-btn {
+  background: #fff;
+box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.03), 0px 12.5216px 10.0172px rgba(0, 0, 0, 0.015);
+border-radius: 20px;
+padding: 10px 24px;
+display: flex;
+align-items: center;
+border: 1px solid #008F76;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 200%;
+text-align: center;
+color: #008F76;
+}
+.hero-btn + .hero-btn {
+  margin-left: 50px;
+}
+.hero-btn:hover {
+  background-color: #008F76;
+  color: #fff;
+}
